@@ -10,6 +10,11 @@ function a(b, c)
   }
 }
 
+/* sssss */
+function addedInMain()
+{
+}
+
 /* add mod comment */
 function mod(b, c)
 {
