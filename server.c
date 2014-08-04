@@ -18,6 +18,7 @@ function getMember()
 {  
    // this is for getMember
    wfci.getMember(id);
+   wfci.getRole(id);
 } // for get Member
 
 function completeTask()
