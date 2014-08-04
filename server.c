@@ -14,6 +14,11 @@ function createProcess()
    // to do
 }
 
+function getMember()
+{  
+   // this is for getMember
+} // for get Member
+
 function completeTask()
 {
 
