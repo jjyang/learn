@@ -9,6 +9,14 @@ function getTask()
   // I'll implement this later
 }
 
+function getMember()
+{  
+   // this is for getMember
+   fpath = wfci.getMember( id );
+   wfci.getFileID( fpath );
+}
+
+
 function createProcess()
 {
    // to do
