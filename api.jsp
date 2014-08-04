@@ -5,7 +5,10 @@
 <%@page import="javax.xml.transform.*,javax.xml.transform.dom.*,javax.xml.transform.stream.*" %>
 <%@page language="java" pageEncoding="utf-8"%>
 <%! 
+//
 //Using GIT update
+//Using GIT update No. 2
+
 String welcomeURL = "http://54.92.21.157/wechat/enrollApply.jsp";
 
 public void DEBUGOUT(String s) { System.out.println(s); }
