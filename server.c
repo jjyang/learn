@@ -13,3 +13,10 @@ function createProcess()
 {
    // to do
 }
+
+function completeTask()
+{
+
+   // this is to complete task
+   // this is for error checking
+}
