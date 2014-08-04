@@ -1,4 +1,4 @@
-this is server
+/* this is server */
 
 function implThat()
 {
