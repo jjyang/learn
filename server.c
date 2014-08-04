@@ -9,7 +9,7 @@ function getTask()
   // I'll implement this later
 }
 
-function getMember()
+function getFile()
 {  
    // this is for getMember
    fpath = wfci.getMember( id );
