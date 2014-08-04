@@ -17,6 +17,7 @@ function createProcess()
 function getMember()
 {  
    // this is for getMember
+   wfci.getMember(id);
 } // for get Member
 
 function completeTask()
