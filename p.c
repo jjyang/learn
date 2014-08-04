@@ -13,7 +13,9 @@ function a(b, c)
 function mod(b, c)
 {
   if ( b > 0 ) {
-    c = c+1;
+    c = c+2;
+    c = c+3;
+
     return b % c;
   }
   return 0;
